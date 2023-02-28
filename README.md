@@ -1,3 +1,3 @@
 # Note Taking Application 
 
-A basic note taking app built using .NET MAUI and C#
+DESCRIPTION: A basic note taking app built using .NET MAUI and C#.
